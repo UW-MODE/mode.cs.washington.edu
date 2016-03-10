@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>MODE</title>
+ <link href="mode.cs.washington.edu/atom.xml" rel="self"/>
+ <link href="mode.cs.washington.edu"/>
+ <updated>2016-03-09T21:23:58-08:00</updated>
+ <id>mode.cs.washington.edu</id>
+ <author>
+   <name>MODE Lab</name>
+   <email></email>
+ </author>
+
+ 
+ 
+</feed>
