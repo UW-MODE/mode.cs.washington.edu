@@ -44,3 +44,7 @@ description: ""
 <img src="images/marco-head.jpg" width="100px" />
 
 [**Marco Tulio Ribeiro**](http://homes.cs.washington.edu/~marcotcr/)
+
+<img src="images/hyunsu-head.jpg" width="100px" />
+
+[**Hyunsu Cho**](http://homes.cs.washington.edu/~chohyu01/)
